@@ -1,0 +1,205 @@
+ul{
+    list-style-type: none;
+    background-color: white ;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+    position: fixed;
+    width: 100%;
+}
+li{
+    float: right;
+    border-right: 1px solid whitesmoke;
+}
+a{
+    display: block;
+    padding: 10px;
+}
+li a{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: rgb(77, 77, 77);
+    color: white;
+}
+.tb1{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.body{
+    background-color: whitesmoke;
+}
+.t1{
+    color: rgb(75, 75, 75);
+}
+.t1:hover{
+    color: rgb(0, 68, 100);
+}
+.about{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.pp{
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 2px;
+}
+.nama{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.nama:hover{
+    color: rgb(0, 68, 100);
+}
+.kat{
+    font-weight: bolder;
+}
+.t3{
+    line-height: 30px;
+}
+.t4{
+    line-height: 30px;
+}
+.tbab{
+    background-color: whitesmoke) ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.tbab:hover{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.bout{
+    font-size: 35px;
+}
+.bout:hover{
+    font-size: 50px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.g1{
+    height: 250px;
+    width: 400px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.g1:hover{
+    height: 300px;
+    width: 450px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.g2{
+    height: 250px;
+    width: 400px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.g2:hover{
+    height: 300px;
+    width: 450px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.g3{
+    height: 250px;
+    width: 400px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.g3:hover{
+    height: 300px;
+    width: 450px;
+    box-shadow: 3px 3px 6px 1px rgb(24, 23, 23);
+}
+.porto{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.blog{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.bl1{
+    height: 450px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.bl2{
+    height: 450px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.bl3{
+    height: 450px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.jd1{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.jd2{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.jd3{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.te1{
+    height: 225px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.te2{
+    height: 225px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.te3{
+    height: 225px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 3px 3px 6px 1px rgb(107, 107, 107);
+}
+.tm{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
+.con1{
+    height: 230px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.con2{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.con{
+    background-color: white ;
+    box-shadow: 3px 3px 6px 1px rgb(220, 220, 220);
+}
